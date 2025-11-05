@@ -343,7 +343,7 @@ function Login({ onLogin }) {
         {/* Footer */}
         <div className="login-footer">
           <p>
-            By continuing, you agree to Surakshit Store's{' '}
+            By continuing, you agree to EcoMart Next's{' '}
             <a href="/terms" target="_blank" rel="noopener noreferrer">Terms of Service</a>
             {' '}and{' '}
             <a href="/privacy" target="_blank" rel="noopener noreferrer">Privacy Policy</a>
