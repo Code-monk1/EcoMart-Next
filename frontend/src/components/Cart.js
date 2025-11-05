@@ -63,7 +63,7 @@ function Cart({ cartItems = [], updateCartItems }) {
             {cartItems.length === 0 ? (
               <div className="empty-cart">
                 <div className="empty-cart-title">
-                  Your Surakshit Cart is empty
+                  Your Ecomart Cart is empty
                 </div>
                 <div className="empty-cart-subtitle">
                   Your Shopping Cart lives to serve. Give it purpose — fill it with books, electronics, videos, etc. and make it happy.

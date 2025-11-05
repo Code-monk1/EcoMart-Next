@@ -189,14 +189,14 @@ function Login({ onLogin }) {
       <div className="login-card">
         {/* Logo */}
         <div className="logo-container">
-          <h1 className="logo">SURAKSHIT STORE</h1>
+          <h1 className="logo">EcoMart Next</h1>
         </div>
 
         {/* Welcome Message */}
         <div className="welcome-section">
           <h2 className="welcome-title">Welcome</h2>
           <p className="welcome-subtitle">
-            {isSignup ? 'Create your account to get started with Surakshit Store.' : 'Log in to continue to Surakshit Store.'}
+            {isSignup ? 'Create your account to get started with Ecomart Next.' : 'Log in to continue to Ecomart Next.'}
           </p>
         </div>
 

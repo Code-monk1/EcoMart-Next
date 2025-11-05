@@ -127,7 +127,7 @@ function Header({ cartItems = [], setSearchTerm }) {
       <header className="header">
         <div className="header-left">
           <button onClick={handleOpenPanel} className="menu-btn">☰</button>
-          <div className="logo" onClick={() => navigate('/')}>SURAKSHIT STORE</div>
+          <div className="logo" onClick={() => navigate('/')}>EcoMart Next</div>
         </div>
 
         <div className="search-bar" style={{ position: 'relative' }}>
